@@ -1,4 +1,8 @@
 
+## Summary
+If you have been designing websites for MODX, you used to work from the admin panel. But for me it is slow and not comfortable, I'm used to writing code in IDE. In MODX is impossible? Mistaken.
+For a long time we have a tool like Gitify. And there's a tool to automate the layout - Gulp. And the most beautiful thing you can cross Gulp and Gitify and get a great workflow for quick and easy development on MODX. How? Easy!
+
 # Overclocking Gitify workflow with Gulp
 
 If you don't use Gitify for your MODX project yet – **you must**! Seriously! 
