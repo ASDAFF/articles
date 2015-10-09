@@ -263,4 +263,4 @@ cd modx-slackify/_build && php build.transport.php
 
 Задавайте вопросы, постараюсь ответить.
 
-P.S. Не проходите мимо, [поставьте Slackly звезду на GitHub](https://github.com/Alroniks/modx-slackify), пожалуйста.
+P.S. Не проходите мимо, [поставьте Slackify звезду на GitHub](https://github.com/Alroniks/modx-slackify), пожалуйста.
