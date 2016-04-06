@@ -239,4 +239,4 @@ I hope it was a useful article and now you can develop MODX sites faster and eas
 P.S.
 I collected all files for usage in Gist here https://gist.github.com/Alroniks/1466b67a648949a1bbea. Feel free to give me feedback.
 
-Thank you. 
+Thank you.
